@@ -1,6 +1,7 @@
-<div align="center" style="background-image: url('https://images.unsplash.com/photo-1519125323398-675f0ddb6308?fit=crop&w=1920&q=80'); background-size: cover; padding: 20px; color: white; border-radius: 10px;">
+<div align="center" style="background-image: url('https://i.pinimg.com/564x/2f/01/82/2f018220b39ac01873dd845303775477.jpg'); background-size: cover; padding: 20px; color: white; border-radius: 10px;">
   <h1>Hi 👋, I'm Yogesh Kumar S</h1>
   <h3>Passionate Full Stack Developer | College Student | Building the Future, One Line of Code at a Time</h3>
+  <img
   <p>
     <img src="https://komarev.com/ghpvc/?username=yogeshkumar200516&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   </p>
