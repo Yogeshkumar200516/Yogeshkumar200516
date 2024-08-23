@@ -2,12 +2,10 @@
     <img src="https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8" alt="MasterHead" style="width: 100%; height: 300px;"/>
 </p>
 
-
-
 <h1 align="center">Hi 👋, I'm Yogesh Kumar S</h1>
 <h3 align="center">Passionate Full Stack Developer | College Student | Building the Future, One Line of Code at a Time</h3>
 
-<img align="right" alt="Coding" width="260" height="260" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="Coding" width="260" height="260" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" style="margin-top: 120px;">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogeshkumar200516&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
