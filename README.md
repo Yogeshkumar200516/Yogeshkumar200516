@@ -1,5 +1,9 @@
+[![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/05/Untitled-design-75.png)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Yogesh Kumar S</h1>
 <h3 align="center">Passionate Full Stack Developer | College Student | Building the Future, One Line of Code at a Time</h3>
+
+<img align="right" alt="Coding" width="260" height="260" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogeshkumar200516&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -96,9 +100,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumar200516&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yogeshkumar200516&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshkumar200516" alt="GitHub Streak Stats" />
+  <img height="200" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumar200516&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="200" width="430" src="https://github-readme-stats.vercel.app/api?username=yogeshkumar200516&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img height="200" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshkumar200516" alt="GitHub Streak Stats" />
 </div>
 
 ---
