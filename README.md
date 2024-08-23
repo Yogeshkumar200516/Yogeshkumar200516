@@ -1,4 +1,8 @@
-[![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/05/Untitled-design-75.png)](https://rishavchanda.io)
+<p align="center">
+    <img src="https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8" alt="MasterHead" style="width: 100%; height: 300px;"/>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Yogesh Kumar S</h1>
 <h3 align="center">Passionate Full Stack Developer | College Student | Building the Future, One Line of Code at a Time</h3>
